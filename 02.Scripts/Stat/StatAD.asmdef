@@ -1,0 +1,15 @@
+{
+    "name": "StatAD",
+    "references": [
+        "GUID:c3201e1cd743ab148bd9c942c179862d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
