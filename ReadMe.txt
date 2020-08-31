@@ -1,5 +1,5 @@
 아직 문서를 작성하지 못해서 간단한 설명입니다. 읽어주시면 감사하겠습니다.
-게임 플레이 영상 : https://www.youtube.com/watch?v=ieC0TfMf44E&feature=youtu.be
+게임 플레이 영상 : https://www.youtube.com/watch?v=fPgzpbFmRiE
 1. Player
  - PlayerController : Update에서 사용자로부터 키입력을 받아 이동,공격,회피(구르기) 실행. 피격,사망 이벤트 포함
  - PlayerGauge : UI의 체력, 마력바를 갱신하는 함수. PlayerStat 스크립트의 static 이벤트에 연결되어 실행됨.
